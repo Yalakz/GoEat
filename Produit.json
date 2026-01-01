@@ -1,0 +1,85 @@
+[
+ {  "Id":"#001",
+    "name": "ToniToos",
+    "categorie":"Burger",
+    "pirx":1500,
+    "detail":"Salade, Oeuf, Tomate"
+ },
+ {
+    "Id":"#002",
+    "name": "Burger simple",
+    "categorie":"Burger",
+    "pirx":2500,
+    "detail":"Steak, Salade, Tomate, Oignon"
+ },
+ {
+    "Id":"#003",
+    "name": "CheeseBurger",
+    "categorie":"Burger",
+    "pirx":3000,
+    "detail":"Salade, Tomate, Oignon, Steak, Fromage"
+ },
+ {
+    "Id":"#004",
+    "name": "DoubleCheese",
+    "categorie":"Burger",
+    "pirx":5000,
+    "detail":"Salade,Tomate, Oignon, Steak, Fromage, Steak"
+ },
+ {
+    "Id":"#005",
+    "name": "Shawarma",
+    "categorie":"Shawarma",
+    "pirx":2000,
+    "detail":"Salade,Tomate, Oignon, Poulet, Frite, Cornichons"
+ },
+ {
+    "Id":"#006",
+    "name": "Shawarma Poulet",
+    "categorie":"Shawarma",
+    "pirx":2000,
+    "detail":"Salade,Tomate, Oignon, Poulet, Frite, Cornichons"
+ },
+ {
+    "Id":"#007",
+    "name": "Shawarma Viande",
+    "categorie":"Shawarma",
+    "pirx":2500,
+    "detail":"Salade,Tomate, Oignon, Viande, Frite, Cornichons"
+ },
+ {
+    "Id":"#008",
+    "name": "Box Wings",
+    "categorie":"Wings",
+    "pirx":2000,
+    "detail":"5 Pieces d'aile de poulet epicés sauce garnis"
+ },
+ {
+    "Id":"#009",
+    "name": "Grand Box Wings",
+    "categorie":"Wings",
+    "pirx":3000,
+    "detail":"10 Pieces d'aile de poulet epicés sauce garnis"
+ },
+{
+    "Id":"#010",
+    "name": "Panini",
+    "categorie":"Panini",
+    "pirx":1500,
+    "detail":"Salade,Tomate, Oignon, poulet, Fromage"
+ },
+   {
+    "Id":"#011",
+    "name": "Brochette Poulet",
+    "categorie":"Brochette",
+    "pirx":1500,
+    "detail":"Brochette poulet Garnis"
+ },
+ {
+    "Id":"#012",
+    "name": "Brochette Poisson",
+    "categorie":"Brochette",
+    "pirx":1500,
+     "detail":"Brochette Poisson Garnis"
+ }
+]
