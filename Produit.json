@@ -1,7 +1,7 @@
 [
   {
     "id": "#001",
-    "name": "ToniToo",
+    "name": "ToniToos",
     "categorie": "Burger",
     "prix": 1500,
     "detail": "Salade, Oeuf, Tomate",
@@ -96,6 +96,7 @@
     "imageUrl": "https://via.placeholder.com/150"
   }
 ]
+
 
 
 
