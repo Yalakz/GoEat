@@ -1,11 +1,11 @@
 [
   {
     "id": "#001",
-    "name": "ToniToos",
+    "name": "ToniToo",
     "categorie": "Burger",
     "prix": 1500,
     "detail": "Salade, Oeuf, Tomate",
-    "imageUrl": "https://via.placeholder.com/150"
+    "imageUrl": "https://github.com/Yalakz/GoEat/blob/main/Server/Produit/BrochettePoisson.png"
   },
   {
     "id": "#002",
@@ -96,5 +96,6 @@
     "imageUrl": "https://via.placeholder.com/150"
   }
 ]
+
 
 
