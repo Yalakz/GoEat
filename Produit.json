@@ -4,7 +4,7 @@
     "name": "ToniToos",
     "categorie": "Burger",
     "prix": 1500,
-    "detail": "Salade, Oeuf, Tomate",
+    "detail": "Un burger est un sandwich composé de deux pains ronds entre lesquels on place généralement un oeuf, accompagné de garnitures comme la salade, la tomate, l’oignon et différentes sauces.",
     "imageUrl": "https://raw.githubusercontent.com/Yalakz/GoEat/main/Server/Produit/Tonitoos.png"
   },
   {
@@ -12,7 +12,7 @@
     "name": "Burger simple",
     "categorie": "Burger",
     "prix": 2500,
-    "detail": "Steak, Salade, Tomate, Oignon",
+    "detail": "Un burger est un sandwich composé de deux pains ronds entre lesquels on place généralement un steak, accompagné de garnitures comme la salade, la tomate, l’oignon et différentes sauces.",
     "imageUrl": "https://raw.githubusercontent.com/Yalakz/GoEat/main/Server/Produit/Burger.png"
   },
   {
@@ -20,7 +20,7 @@
     "name": "CheeseBurger",
     "categorie": "Burger",
     "prix": 3000,
-    "detail": "Salade, Tomate, Oignon, Steak, Fromage",
+    "detail": "Un burger est un sandwich composé de deux pains ronds entre lesquels on place généralement un steak, accompagné de garnitures comme la salade, la tomate, l’oignon, le fromage et différentes sauces.",
     "imageUrl": "https://raw.githubusercontent.com/Yalakz/GoEat/main/Server/Produit/Cheese.png"
   },
   {
@@ -28,7 +28,7 @@
     "name": "DoubleCheese",
     "categorie": "Burger",
     "prix": 5000,
-    "detail": "Salade, Tomate, Oignon, Steak, Fromage, Steak",
+    "detail": "Un burger est un sandwich composé de deux pains ronds entre lesquels on place généralement deux steak, accompagné de garnitures comme la salade, la tomate, l’oignon, le fromage et différentes sauces.",
     "imageUrl": "https://raw.githubusercontent.com/Yalakz/GoEat/main/Server/Produit/DoubleCheese.png"
   },
   {
@@ -88,6 +88,7 @@
     "imageUrl": "https://raw.githubusercontent.com/Yalakz/GoEat/main/Server/Produit/BrochettePoisson.png"
   }
 ]
+
 
 
 
