@@ -65,11 +65,11 @@
   },
   {
     "id": "#009",
-    "name": "Shawarma Viande haché",
+    "name": "ShawarmaViande H ",
     "categorie": "Shawarma",
     "prix": 2000,
     "detail": "Salade, Tomate, Oignon, Viande hachée, Frite, Cornichons",
-    "imageUrl": "https://raw.githubusercontent.com/Yalakz/GoEat/main/Server/Produit/ShawarmaViandeHachéee.png"
+    "imageUrl": "https://raw.githubusercontent.com/Yalakz/GoEat/main/Server/Produit/shawarmaViandeHachéee.png"
   },
   {
     "id": "#010",
@@ -185,3 +185,4 @@
     "imageUrl": "https://raw.githubusercontent.com/Yalakz/GoEat/main/Server/Produit/Manioc.png"
   }
 ]
+
