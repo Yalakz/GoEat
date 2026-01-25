@@ -17,6 +17,14 @@
   },
   {
     "id": "#003",
+    "name": "Burger Poulet",
+    "categorie": "Burger",
+    "prix": 2000,
+    "detail": "Un burger est un sandwich composé de deux pains ronds entre lesquels on place généralement un filet poulet, accompagné de garnitures comme la salade, la tomate, l’oignon et différentes sauces.",
+    "imageUrl": "https://raw.githubusercontent.com/Yalakz/GoEat/main/Server/Produit/BurgerPoulet.png"
+  },
+  {
+    "id": "#004",
     "name": "CheeseBurger",
     "categorie": "Burger",
     "prix": 3000,
@@ -24,7 +32,7 @@
     "imageUrl": "https://raw.githubusercontent.com/Yalakz/GoEat/main/Server/Produit/Cheese.png"
   },
   {
-    "id": "#004",
+    "id": "#005",
     "name": "DoubleCheese",
     "categorie": "Burger",
     "prix": 5000,
@@ -33,6 +41,14 @@
   },
   {
     "id": "#006",
+    "name": "TripleCheese",
+    "categorie": "Burger",
+    "prix": 7000,
+    "detail": "Un burger est un sandwich composé de deux pains ronds entre lesquels on place généralement trois steak, accompagné de garnitures comme la salade, la tomate, l’oignon, le fromage et différentes sauces.",
+    "imageUrl": "https://raw.githubusercontent.com/Yalakz/GoEat/main/Server/Produit/TripleCheese.png"
+  },
+  {
+    "id": "#007",
     "name": "Shawarma Poulet",
     "categorie": "Shawarma",
     "prix": 2000,
@@ -40,7 +56,7 @@
     "imageUrl": "https://raw.githubusercontent.com/Yalakz/GoEat/main/Server/Produit/ShawarmaPoulet.png"
   },
   {
-    "id": "#007",
+    "id": "#008",
     "name": "Shawarma Viande",
     "categorie": "Shawarma",
     "prix": 2500,
@@ -48,7 +64,23 @@
     "imageUrl": "https://raw.githubusercontent.com/Yalakz/GoEat/main/Server/Produit/ShawarmaViande.png"
   },
   {
-    "id": "#008",
+    "id": "#009",
+    "name": "Shawarma Viande haché",
+    "categorie": "Shawarma",
+    "prix": 2000,
+    "detail": "Salade, Tomate, Oignon, Viande hachée, Frite, Cornichons",
+    "imageUrl": "https://raw.githubusercontent.com/Yalakz/GoEat/main/Server/Produit/ShawarmaViandeHachéee.png"
+  },
+  {
+    "id": "#010",
+    "name": "Shawarma saucisse",
+    "categorie": "Shawarma",
+    "prix": 1500,
+    "detail": "Salade, Tomate, Oignon, Saucisse, oeuf, Frite, Cornichons",
+    "imageUrl": "https://raw.githubusercontent.com/Yalakz/GoEat/main/Server/Produit/ShawarmaViande.png"
+  },
+  {
+    "id": "#0011",
     "name": "Box Wings",
     "categorie": "Wings",
     "prix": 2000,
@@ -56,44 +88,100 @@
     "imageUrl": "https://raw.githubusercontent.com/Yalakz/GoEat/main/Server/Produit/Wings.png"
   },
   {
-    "id": "#009",
-    "name": "Grand Box Wings",
-    "categorie": "Wings",
-    "prix": 3000,
-    "detail": "10 pièces d’ailes de poulet épicées",
-    "imageUrl": "https://raw.githubusercontent.com/Yalakz/GoEat/main/Server/Produit/Wings.png"
-  },
-  {
     "id": "#010",
-    "name": "Panini",
+    "name": "Panini Poulet",
     "categorie": "Panini",
     "prix": 1500,
     "detail": "Salade, Tomate, Oignon, Poulet, Fromage",
     "imageUrl": "https://raw.githubusercontent.com/Yalakz/GoEat/main/Server/Produit/Panini.png"
   },
   {
+    "id": "#010",
+    "name": "Panini Poulet",
+    "categorie": "Panini",
+    "prix": 1500,
+    "detail": "Salade, Tomate, Oignon, Poulet, Fromage",
+    "imageUrl": "https://raw.githubusercontent.com/Yalakz/GoEat/main/Server/Produit/PaniniPoulet.png"
+  },
+  {
     "id": "#011",
+    "name": "Panini Viande Hachée",
+    "categorie": "Panini",
+    "prix": 1500,
+    "detail": "Salade, Tomate, Oignon, Viande Hachée, Fromage",
+    "imageUrl": "https://raw.githubusercontent.com/Yalakz/GoEat/main/Server/Produit/PaniniViandeHachée.png"
+  },
+  {
+    "id": "#011",
+    "name": "Panini Hot Dog",
+    "categorie": "Panini",
+    "prix": 1500,
+    "detail": "Salade, Tomate, Oignon, Hot Dog, Fromage",
+    "imageUrl": "https://raw.githubusercontent.com/Yalakz/GoEat/main/Server/Produit/PaniniFromage.png"
+  },
+  {
+    "id": "#012",
+    "name": "Panini Mini",
+    "categorie": "Panini",
+    "prix": 1000,
+    "detail": "Salade, Tomate, Oignon, Viande Hachée, Fromage",
+    "imageUrl": "https://raw.githubusercontent.com/Yalakz/GoEat/main/Server/Produit/MiniPanini.png"
+  },
+  {
+    "id": "#012",
     "name": "Brochette Poulet",
     "categorie": "Brochette",
     "prix": 1500,
     "detail": "Brochette de poulet garnie",
     "imageUrl": "https://raw.githubusercontent.com/Yalakz/GoEat/main/Server/Produit/BrochettePoulet.png"
   },
+  
   {
-    "id": "#012",
+    "id": "#013",
     "name": "Brochette Poisson",
     "categorie": "Brochette",
     "prix": 1500,
     "detail": "Brochette de poisson garnie",
     "imageUrl": "https://raw.githubusercontent.com/Yalakz/GoEat/main/Server/Produit/BrochettePoisson.png"
+  },
+  {
+    "id": "#014",
+    "name": "Saucisse Toulouse",
+    "categorie": "Brochette",
+    "prix": 1500,
+    "detail": "Brochette de Saucisse garnie",
+    "imageUrl": "https://raw.githubusercontent.com/Yalakz/GoEat/main/Server/Produit/SaucisseToulouse.png"
+  },
+  {
+    "id": "#015",
+    "name": "Portion Banane",
+    "categorie": "Portion",
+    "prix": 1000,
+    "detail": "Portion Banane",
+    "imageUrl": "https://raw.githubusercontent.com/Yalakz/GoEat/main/Server/Produit/PortionBanane.png"
+  },
+  {
+    "id": "#016",
+    "name": "Portion Riz",
+    "categorie": "Portion",
+    "prix": 1000,
+    "detail": "Portion Riz",
+    "imageUrl": "https://raw.githubusercontent.com/Yalakz/GoEat/main/Server/Produit/PortionRiz.png"
+  },
+  {
+    "id": "#017",
+    "name": "Portion Frite",
+    "categorie": "Portion",
+    "prix": 1000,
+    "detail": "Portion Frite",
+    "imageUrl": "https://raw.githubusercontent.com/Yalakz/GoEat/main/Server/Produit/Frite.png"
+  },
+  {
+    "id": "#018",
+    "name": "Portion Manioc",
+    "categorie": "Portion",
+    "prix": 1000,
+    "detail": "Portion Manioc",
+    "imageUrl": "https://raw.githubusercontent.com/Yalakz/GoEat/main/Server/Produit/Manioc.png"
   }
 ]
-
-
-
-
-
-
-
-
-
