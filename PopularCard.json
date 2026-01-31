@@ -1,0 +1,28 @@
+[
+
+  {
+    "id": "#002",
+    "name": "Burger simple",
+    "categorie": "Burger",
+    "prix": 2500,
+    "detail": "Un burger est un sandwich composé de deux pains ronds entre lesquels on place généralement un steak, accompagné de garnitures comme la salade, la tomate, l’oignon et différentes sauces.",
+    "imageUrl": "https://raw.githubusercontent.com/Yalakz/GoEat/main/Server/Produit/Burger.png"
+  },
+  {
+    "id": "#007",
+    "name": "Shawarma Poulet",
+    "categorie": "Shawarma",
+    "prix": 2000,
+    "detail": "Salade, Tomate, Oignon, Poulet, Frite, Cornichons",
+    "imageUrl": "https://raw.githubusercontent.com/Yalakz/GoEat/main/Server/Produit/ShawarmaPoulet.png"
+  },
+  {
+    "id": "#010",
+    "name": "Panini Poulet",
+    "categorie": "Panini",
+    "prix": 1500,
+    "detail": "Salade, Tomate, Oignon, Poulet, Fromage",
+    "imageUrl": "https://raw.githubusercontent.com/Yalakz/GoEat/main/Server/Produit/Panini.png"
+  },
+]
+
